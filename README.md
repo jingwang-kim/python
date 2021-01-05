@@ -1,2 +1,3 @@
 # python
-python codes
+python 
+Hi! I'm G
